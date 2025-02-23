@@ -1,0 +1,16 @@
+# Arquivos de sistema e do próprio Git
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+*.iws
+
+# Logs e temporários
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Bundler e dependências
+/vendor/bundle
+*.
